@@ -1,6 +1,7 @@
 import java.util.*;
 class Node{
     int data;
+    int val;
     Node left;
     Node right;
     Node(int data){
